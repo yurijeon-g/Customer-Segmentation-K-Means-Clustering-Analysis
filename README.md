@@ -15,11 +15,12 @@ Cluster 1: This cluster follows Cluster 2 in terms of spending the second most a
 Cluster 2: This cluster has the highest median income ($72.94k) and highest median spending ($1240) among all the clusters, making this a very valuable customer group to target. Cluster 2, despite having the same median number of purchases as Cluster 1, has a higher median average order value of each purchase unit.
 
 Cluster 3: This cluster is solidly in the middle in terms of income and spending at $58.84k and $604, respectively, thus also deserves some attention when it comes to targeting the cluster. It ranks in the middle in terms of median number of purchases and average order value.
+
 Cluster 4: This cluster is second to Cluster 0 in terms of spending the second least and earning the second least. It also has the second lowest median number of purchases and average order value.
 
 ### Insights and Recommendations by Cluster Group
 
-**Cluster 0:**
+** Cluster 0: **
 
 Cluster 0 tends to spend the least in median amount and has the lowest median income. It also has the lowest median number of purchases and average order value. Thus, this cluster may not be a priority target for marketing campaigns (They are also less likely to accept campaigns). However, to increase their loyalty, businesses could focus on providing personalized recommendations based on their purchase history, providing additional discounts or free delivery for frequent purchases. 
 
