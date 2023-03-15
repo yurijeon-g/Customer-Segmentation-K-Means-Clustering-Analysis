@@ -38,6 +38,8 @@ Offer a wider range of products that appeal to families with children.
 
 Cluster 1 follows 2nd to Cluster 2 in terms of spending the 2nd most and earning the 2nd most. This also makes Cluster 1 a very valuable customer group to target. Cluster 1 has the same median number of purchases as Cluster 2. To attract this valuable customer group, businesses could offer exclusive deals and promotions, loyalty programs, and personalized recommendations based on their purchase history. As Cluster 1 tends to be older in age and have a higher income, it may be a good idea to promote premium products or services that cater to their preferences and lifestyles. This cluster is the second most responsive to campaigns, with 9% of customers accepting multiple campaigns. Cluster 1 has the highest median catalog purchases and tends to make more store purchases than online purchases.
 
+Cluster 1, which is characterized by high purchase amounts across all product categories, presents an opportunity for businesses to focus on cross-selling and upselling to these customers. For example, offering special deals on complementary products, such as wine and meat products, could help increase sales.
+
 Recommendations:
 
 Offer a loyalty program or other incentives to encourage repeat purchases.
@@ -50,6 +52,8 @@ Provide excellent in-store experiences to encourage more in-store purchases.
 
 Cluster 2 has the highest median income and highest median spending amongst all the clusters, making this a very valuable customer group to target. Cluster 2, despite having the same median number of purchases as Cluster 1, has a higher median average order value of each purchase unit. Cluster 2 is the least resistant to campaigns, with around 38% of customers accepting at least one campaign. Cluster 2 has the highest store purchases followed closely by clusters 1 and 3. Cluster 2 tends to be young er with higher income, it may be a good idea to promote trendy and innovative products that appeal to their preferences.
 
+Cluster 2 also has high purchase amounts, particularly for wines and meat products. This suggests that these customers may be more inclined towards luxury and gourmet products. Businesses could tailor their marketing strategies to target these customers by promoting high-end or specialty products.
+
 Recommendations:
 
 Target younger customers with high incomes with exclusive promotions to increase their engagement with the brand.
@@ -61,6 +65,8 @@ Promote in-store events and experiences to increase foot traffic.
 ### Cluster 3:
 
 Cluster 3 is solidly in the middle in terms of income and spending, thus also deserves some attention when it comes to targeting the cluster. It ranks in the middle in terms of median number of purchases and average order value. As Cluster 3 has the biggest share of customers having at least one child, it may be a good idea to promote child-friendly products or services.Cluster 3 has the highest number of online web purchases. This cluster is the most responsive to deals, with all its customers purchasing with at least one deal, and 90% of its customers purchasing with deals over 3 times.
+
+Cluster 3 has moderate purchase amounts for most product categories, but relatively low purchase amounts for fruits and fish products. To tap into this market, businesses could explore offering promotions or discounts on these products to attract more customers.
 
 Recommendations:
 
