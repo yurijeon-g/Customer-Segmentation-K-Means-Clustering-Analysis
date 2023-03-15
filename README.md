@@ -1,13 +1,13 @@
 # Customer-Segmentation-K-Means-Clustering-Analysis
 
-## Overview
 The purpose of this report is to analyze customer segmentation data to identify insights and patterns that can be used to make data-driven business and marketing recommendations. The data provided includes information on customers' number of children, number of deal purchases, education level, cluster accepted campaigns, purchase location type, spending on product type, and characteristics by spending, income, number of purchases. The report will group the insights by each cluster, and provide detailed marketing and business recommendations supported by the data. 
 
 The notebook for this data analysis can be found [here](https://github.com/yurijeon-g/Customer-Segmentation-K-Means-Clustering-Analysis/blob/main/Customer%20Segmentation%20Analysis%20with%20K-Means.ipynb)
 
 The dataset is provided [here](https://github.com/yurijeon-g/Customer-Segmentation-K-Means-Clustering-Analysis/blob/main/customer_marketing_data.csv)
 
-## Analysis Aims:
+
+## Overview
 
 This analysis aims to provide insights on customer behavior based on the clustering algorithm applied to the dataset. The dataset contains demographic and spending-related information of 5,000 customers. The clustering algorithm resulted in five clusters that were analyzed further in terms of spending, income, number of purchases, average order value, marital status, age, number of children, etc. 
 
