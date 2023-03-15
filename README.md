@@ -1,7 +1,11 @@
 # Customer-Segmentation-K-Means-Clustering-Analysis
 
 ## Overview
-The purpose of this report is to analyze customer segmentation data to identify insights and patterns that can be used to make data-driven business and marketing recommendations. The data provided includes information on customers' number of children, number of deal purchases, education level, cluster accepted campaigns, purchase location type, spending on product type, and characteristics by spending, income, number of purchases. The report will group the insights by each cluster, and provide detailed marketing and business recommendations supported by the data.
+The purpose of this report is to analyze customer segmentation data to identify insights and patterns that can be used to make data-driven business and marketing recommendations. The data provided includes information on customers' number of children, number of deal purchases, education level, cluster accepted campaigns, purchase location type, spending on product type, and characteristics by spending, income, number of purchases. The report will group the insights by each cluster, and provide detailed marketing and business recommendations supported by the data. 
+
+The notebook for this data analysis can be found [here](
+
+The dataset is provided [here](https://github.com/yurijeon-g/Customer-Segmentation-K-Means-Clustering-Analysis/blob/main/customer_marketing_data.csv)
 
 ## Analysis Aims:
 
@@ -9,15 +13,15 @@ This analysis aims to provide insights on customer behavior based on the cluster
 
 ## Summary of Each Cluster by Spending, Purchases and Income
 
-Cluster 0: This cluster tends to spend the least in the median amount ($58) and has the lowest median income ($31.16k). It also has the lowest median number of purchases and average order value.
+**Cluster 0:** This cluster tends to spend the least in the median amount ($58) and has the lowest median income ($31.16k). It also has the lowest median number of purchases and average order value.
 
-Cluster 1: This cluster follows Cluster 2 in terms of spending the second most and earning the second most. This also makes Cluster 1 a very valuable customer group to target. Cluster 1 has the same median number of purchases as Cluster 2.
+**Cluster 1:** This cluster follows Cluster 2 in terms of spending the second most and earning the second most. This also makes Cluster 1 a very valuable customer group to target. Cluster 1 has the same median number of purchases as Cluster 2.
 
-Cluster 2: This cluster has the highest median income ($72.94k) and highest median spending ($1240) among all the clusters, making this a very valuable customer group to target. Cluster 2, despite having the same median number of purchases as Cluster 1, has a higher median average order value of each purchase unit.
+**Cluster 2**: This cluster has the highest median income ($72.94k) and highest median spending ($1240) among all the clusters, making this a very valuable customer group to target. Cluster 2, despite having the same median number of purchases as Cluster 1, has a higher median average order value of each purchase unit.
 
-Cluster 3: This cluster is solidly in the middle in terms of income and spending at $58.84k and $604, respectively, thus also deserves some attention when it comes to targeting the cluster. It ranks in the middle in terms of median number of purchases and average order value.
+**Cluster 3:** This cluster is solidly in the middle in terms of income and spending at $58.84k and $604, respectively, thus also deserves some attention when it comes to targeting the cluster. It ranks in the middle in terms of median number of purchases and average order value.
 
-Cluster 4: This cluster is second to Cluster 0 in terms of spending the second least and earning the second least. It also has the second lowest median number of purchases and average order value.
+**Cluster 4:** This cluster is second to Cluster 0 in terms of spending the second least and earning the second least. It also has the second lowest median number of purchases and average order value.
 
 ## Insights and Recommendations by Cluster Group
 
@@ -25,7 +29,8 @@ Cluster 4: This cluster is second to Cluster 0 in terms of spending the second l
 
 Cluster 0 tends to spend the least in median amount and has the lowest median income. It also has the lowest median number of purchases and average order value. Thus, this cluster may not be a priority target for marketing campaigns (They are also less likely to accept campaigns). However, to increase their loyalty, businesses could focus on providing personalized recommendations based on their purchase history, providing additional discounts or free delivery for frequent purchases. 
 
-Additional Recommendations:
+**Recommendations:**
+
 Target young customers with children with deals and promotions to increase their engagement with the brand.
 
 Offer online/catalogue-only deals and promotions to this 
@@ -40,7 +45,7 @@ Cluster 1 follows 2nd to Cluster 2 in terms of spending the 2nd most and earning
 
 Cluster 1, which is characterized by high purchase amounts across all product categories, presents an opportunity for businesses to focus on cross-selling and upselling to these customers. For example, offering special deals on complementary products, such as wine and meat products, could help increase sales.
 
-Recommendations:
+**Recommendations:**
 
 Offer a loyalty program or other incentives to encourage repeat purchases.
 
@@ -54,7 +59,7 @@ Cluster 2 has the highest median income and highest median spending amongst all 
 
 Cluster 2 also has high purchase amounts, particularly for wines and meat products. This suggests that these customers may be more inclined towards luxury and gourmet products. Businesses could tailor their marketing strategies to target these customers by promoting high-end or specialty products.
 
-Recommendations:
+**Recommendations:**
 
 Target younger customers with high incomes with exclusive promotions to increase their engagement with the brand.
 
@@ -68,7 +73,7 @@ Cluster 3 is solidly in the middle in terms of income and spending, thus also de
 
 Cluster 3 has moderate purchase amounts for most product categories, but relatively low purchase amounts for fruits and fish products. To tap into this market, businesses could explore offering promotions or discounts on these products to attract more customers.
 
-Recommendations:
+**Recommendations:**
 
 Offer deals and promotions to this cluster to capitalize on their responsiveness to them.
 
@@ -82,7 +87,7 @@ Promote child-friendly products or services
 
 Cluster 4 is 2nd to Cluster 0 in terms of spending the 2nd least and earning the 2nd least. It also has the second-lowest median number of purchases and average order value. Thus, this cluster may not be a priority target for marketing campaigns. However, to increase their loyalty, businesses could focus on providing personalized recommendations based on their purchase history, providing additional discounts or free delivery for frequent purchases.
 
-Recommendations:
+**Recommendations:**
 
 Offer deals and discounts that appeal to older individuals with lower incomes. 
 
