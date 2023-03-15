@@ -13,6 +13,9 @@ This analysis aims to provide insights on customer behavior based on the cluster
 
 ## Summary of Each Cluster by Spending, Purchases and Income
 
+![image](https://user-images.githubusercontent.com/123054352/225320510-9f4c9ab9-002d-42d9-b269-66afba9a0364.png)
+
+
 **Cluster 0:** This cluster tends to spend the least in the median amount ($58) and has the lowest median income ($31.16k). It also has the lowest median number of purchases and average order value.
 
 **Cluster 1:** This cluster follows Cluster 2 in terms of spending the second most and earning the second most. This also makes Cluster 1 a very valuable customer group to target. Cluster 1 has the same median number of purchases as Cluster 2.
